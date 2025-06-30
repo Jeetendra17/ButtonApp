@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734613823086",
+    "project_id": "buttonapp-c55ef",
+    "storage_bucket": "buttonapp-c55ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734613823086:android:d8079169aaf5bdbb76107f",
+        "android_client_info": {
+          "package_name": "com.example.buttonapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxX_ro0xsvo2RpIzTLtUyUSUYIJcXNtqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
